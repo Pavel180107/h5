@@ -178,9 +178,9 @@
         <button type="submit"><?= $userLogged ? 'Сохранить изменения' : 'Сохранить' ?></button>
     </form>
 
-    <div class="bottom-links">
+    <div class="back-link">
         <a href="login.php">🔑 Войти (если уже есть логин/пароль)</a>
-        <a href="view.php">📊 Просмотреть сохранённые анкеты</a>
+        <a href="v.php">📊 Просмотреть сохранённые анкеты</a>
     </div>
 
     <?php if (!$userLogged): ?>

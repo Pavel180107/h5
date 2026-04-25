@@ -113,7 +113,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <div class="back-link">
         <a href="index.php">← Вернуться к форме</a>
-        <a href="view.php" style="margin-left:15px;">📊 Просмотреть анкеты</a>
+        <a href="v.php" style="margin-left:15px;">📊 Просмотреть анкеты</a>
     </div>
 
     <div class="auth-hint" style="text-align:center; margin-top:20px;">
